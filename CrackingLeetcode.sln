@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrackingLeetcode.app", "CrackingLeetcode.App\CrackingLeetcode.app.csproj", "{DF8AD1FF-CCA2-4A34-A366-F3081B556A32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrackingLeetcode.App", "CrackingLeetcode.App\CrackingLeetcode.App.csproj", "{DF8AD1FF-CCA2-4A34-A366-F3081B556A32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrackingLeetcode.lib", "CrackingLeetcode.lib\CrackingLeetcode.lib.csproj", "{16B8BA7F-141D-4A95-A29C-ACC471A8E82B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrackingLeetcode.Lib", "CrackingLeetcode.lib\CrackingLeetcode.Lib.csproj", "{16B8BA7F-141D-4A95-A29C-ACC471A8E82B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
