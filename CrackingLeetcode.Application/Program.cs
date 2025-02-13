@@ -1,4 +1,5 @@
 ﻿using CrackingLeetcode.lib;
+using CrackingLeetcode.Library;
 
 namespace CrackingLeetcode.app;
 
@@ -6,11 +7,6 @@ public class Program
 {
     public static void Main(String[] args)
     {
-        Console.WriteLine(MediumCountAndSay.CountAndSay(1));
-        Console.WriteLine(MediumCountAndSay.CountAndSay(2));
-        Console.WriteLine(MediumCountAndSay.CountAndSay(3));
-        Console.WriteLine(MediumCountAndSay.CountAndSay(4));
-        Console.WriteLine(MediumCountAndSay.CountAndSay(5));
-        Console.WriteLine(MediumCountAndSay.CountAndSay(6));
+        Console.WriteLine(MediumMaxSumOfPairWithEqualSumOfDigits.MaximumSum([383, 77, 97, 261, 102, 344, 150, 130, 55, 337, 401, 498, 21, 5]));
     }
 }
