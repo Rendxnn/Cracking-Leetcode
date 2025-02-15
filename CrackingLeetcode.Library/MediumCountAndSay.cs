@@ -1,6 +1,5 @@
 ﻿namespace CrackingLeetcode.lib
 {
-
     /// <summary>
     /// 38. Count and Say
     /// 
